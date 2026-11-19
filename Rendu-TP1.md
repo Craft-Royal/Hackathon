@@ -37,7 +37,7 @@ Participant (Hérite de Membre) : dateNaissance, lienPortefolio
 
 MembreJury (Hérite de Membre)
 
-    Relations : ManyToMany avec Hackathon, OneToMany vers Noter
+    Relations : ManyToMany avec Hackathon, OneToMany vers Notert
 
 Hackathon : theme, lieu, ville, dateHeureDebut, dateHeureFin, affiche, objectifs
 
